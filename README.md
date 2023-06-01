@@ -1,1 +1,1 @@
-# ibm-course-my-portfolio
+This is my IBM course final project
